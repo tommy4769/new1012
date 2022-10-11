@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.providenceuniversity">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="靜宜吃甚麼"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProvidenceUniversity"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".drinksearch20"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch19"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch18"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch17"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch16"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch15"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch14"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch13"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch12"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch11"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch10"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch9"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch8"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch7"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch6"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch5"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch4"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch3"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch2"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch1"
+            android:exported="false" />
+        <activity
+            android:name=".userfunction"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantmean1"
+            android:exported="false" />
+        <activity
+            android:name=".signinifo"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch22"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch21"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch20"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch19"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch18"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch17"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch16"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch15"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch14"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch13"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch12"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch11"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch10"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch9"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch8"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch7"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch6"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch5"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch4"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch3"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch2"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch1"
+            android:exported="false" />
+        <activity
+            android:name=".drestsearch"
+            android:exported="false" />
+        <activity
+            android:name=".drinksearch"
+            android:exported="false" />
+        <activity
+            android:name=".restaurantsearch"
+            android:exported="false" />
+        <activity
+            android:name=".threechoice"
+            android:exported="false" />
+        <activity
+            android:name=".random"
+            android:exported="false" />
+        <activity
+            android:name=".newmember"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/storeback"
+    tools:context=".restaurantsearch18">
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="楊記牛肉麵"
+        android:textColor="#000000"
+        android:textSize="40dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="81dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="329dp"
+        android:layout_height="376dp"
+        android:layout_marginTop="84dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.426"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/img_51" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="375dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="516dp"
+        android:text="地址:433台中市沙鹿區北勢東路311號"
+        android:textColor="#FFAD33"
+        android:textSize="24dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="584dp"
+        android:text="電話:0968682137"
+        android:textColor="#FFAD33"
+        android:textSize="24dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="616dp"
+        android:text="GOOGLE評價"
+        android:textColor="#FFAD33"
+        android:textSize="24dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="223dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="648dp"
+        android:autoLink="web"
+        android:text="https://www.google.com/maps/place/Yang's+Beef+Noodles+%E6%A5%8A%E8%A8%98%E7%89%9B%E8%82%89%E9%BA%B5+Since+1978-%E6%B2%99%E9%B9%BF%E5%BF%85%E5%90%83%E9%A4%90%E5%BB%B3%7C%E7%86%B1%E9%96%80%E7%BE%8E%E9%A3%9F%7C%E7%86%B1%E9%96%80%E9%A4%90%E5%BB%B3%7C%E9%BA%B5%E9%A3%9F%E6%96%99%E7%90%86%7C%E7%89%9B%E8%82%89%E9%BA%B5%E6%8E%A8%E8%96%A6%7C%E5%9C%A8%E5%9C%B0%E6%8E%A8%E8%96%A6%E7%BE%8E%E9%A3%9F/@24.2270819,120.5604761,15z/data=!4m11!1m2!2m1!1z5qWK6KiY54mb6IKJ6bq15rKZ6bm_!3m7!1s0x34691558e23b95cb:0xb45b4b2bd2e54b4a!8m2!3d24.2180802!4d120.5793992!9m1!1b1!15sChXmpYroqJjniZvogonpurXmspnpub9aHCIa5qWKIOiomCDniZvogokg6bq1IOaymSDpub-SARJjaGluZXNlX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTTJhblZmYlZGM0VBRQ"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

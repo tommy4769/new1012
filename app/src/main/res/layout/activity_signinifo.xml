@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         tools:context=".signinifo">
+        <EditText
+            android:id="@+id/et_name"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:hint="用戶名"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textColor="#FFAD33"
+            android:textSize="16sp"/>
+
+        <EditText
+            android:id="@+id/et_pw"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/et_name"
+            android:layout_marginTop="15dp"
+            android:hint="密碼"
+            android:inputType="textPassword"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textColor="#FFAD33"
+            android:textSize="16sp"
+            android:maxLines="1"
+            android:drawablePadding="5dp"/>
+
+        <EditText
+            android:id="@+id/et_3"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/et_pw"
+            android:layout_marginTop="15dp"
+            android:hint="請輸入手機號碼"
+            android:inputType="textPassword"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textColor="#FFAD33"
+            android:textSize="16sp"
+            android:maxLines="1"
+            android:drawablePadding="5dp"/>
+        <Button
+            android:id="@+id/btn1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/et_3"
+            android:text="確認註冊"
+            />
+    </RelativeLayout>

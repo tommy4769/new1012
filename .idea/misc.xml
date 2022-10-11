@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3265" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_drestsearch.xml" value="0.17052494294098466" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_drinksearch.xml" value="0.14083748485256498" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_main.xml" value="0.5390625" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_newmember.xml" value="0.31302083333333336" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_random.xml" value="0.31302083333333336" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_restaurantsearch.xml" value="0.11782309909111062" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_restaurantsearch1.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_restaurantsearch10.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_restaurantsearch11.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_restaurantsearch2.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_restaurantsearch22.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_restaurantsearch3.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_restaurantsearch4.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_restaurantsearch5.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_restaurantsearch6.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_restaurantsearch7.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_restaurantsearch8.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_restaurantsearch9.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_signinifo.xml" value="0.327445652173913" />
+        <entry key="..\:/Users/lives/AndroidStudioProjects/ProvidenceUniversity/app/src/main/res/layout/activity_threechoice.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_drestsearch.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_drinksearch.xml" value="0.1407574152542373" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_drinksearch1.xml" value="0.3999094202898551" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_drinksearch11.xml" value="0.3999094202898551" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_drinksearch13.xml" value="0.3999094202898551" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_drinksearch14.xml" value="0.3999094202898551" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_drinksearch15.xml" value="0.3999094202898551" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_drinksearch18.xml" value="0.3999094202898551" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_drinksearch19.xml" value="0.3999094202898551" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_drinksearch20.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_drinksearch6.xml" value="0.3999094202898551" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_drinksearch7.xml" value="0.3999094202898551" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_drinksearch8.xml" value="0.3999094202898551" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_main2.xml" value="0.3319746376811594" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantmean1.xml" value="0.25" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch1.xml" value="0.3319746376811594" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch10.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch11.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch12.xml" value="0.478713768115942" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch13.xml" value="0.478713768115942" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch14.xml" value="0.478713768115942" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch15.xml" value="0.478713768115942" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch16.xml" value="0.478713768115942" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch17.xml" value="0.478713768115942" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch18.xml" value="0.478713768115942" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch19.xml" value="0.3319746376811594" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch2.xml" value="0.3319746376811594" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch20.xml" value="0.478713768115942" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch21.xml" value="0.4320652173913043" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch22.xml" value="0.4320652173913043" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch3.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch4.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch5.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch6.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch7.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch8.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_restaurantsearch9.xml" value="0.5536458333333333" />
+        <entry key="..\:/Users/lives/Desktop/new1006-master/app/src/main/res/layout/activity_userfunction.xml" value="0.5536458333333333" />
+        <entry key="..\:/專題/pu-master/app/src/main/res/layout/activity_main.xml" value="0.31302083333333336" />
+        <entry key="..\:/專題/pu-master/app/src/main/res/layout/activity_main2.xml" value="0.31302083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
